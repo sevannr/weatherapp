@@ -1,0 +1,33 @@
+.location-cont{
+    width: 100%;
+    height: 35px;
+    text-align: left;
+    color: #888;
+    line-height: 35px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.location-title{
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.weather-location-cont{
+    width: calc(100% - 20px);
+    margin-left: 10px;
+    margin-right: 10px;
+    min-width: 350;
+    box-sizing: border-box;
+    padding: 15px;
+    box-shadow: 10px 10px 40px -12px rgba( 0, 0, 0, 0.75);
+    /* margin: 20px; */
+    /* background-color: black; */
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.forecast-title{
+    text-align: center;
+}

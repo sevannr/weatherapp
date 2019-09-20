@@ -23,6 +23,19 @@
   color: #61dafb;
 }
 
+.detail{
+  background: #999;
+  height: 100vh;
+  width: 100%;
+  overflow: auto;
+}
+
+.lista{
+  height: 100vh;
+  width: 100%;
+  overflow: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
